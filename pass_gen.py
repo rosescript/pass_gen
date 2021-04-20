@@ -32,6 +32,8 @@ for p in range(numPass):
 
         password += random.choice(char)
     print("Your new password is: " + password)
+    
+input("")
 
 
 
